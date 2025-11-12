@@ -58,6 +58,6 @@ Le moteur effectue un mouvement linéaire (vis sans fin) commandé en pas, avec 
 
 ## Fichier
 
-**`pince_doosan.ino`**  
+**`Code_Arduino_Pince_manipulatrice`**  
 Contient le code complet de contrôle du moteur, des commandes série et de l’initialisation automatique.
 
